@@ -1,1 +1,11 @@
 "# frontend-study" 
+- prettier
+- html snippets
+- live server
+- material icon theme
+- hightlight matching tag
+- auto rename tag
+- bracket pair colorizer
+- HTML to CSS autocompletion
+- SCSS IntelliSense
+- htmltagwrap
